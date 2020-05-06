@@ -1,0 +1,14 @@
+name: SkyblockSpawners
+version: 1.0
+description: Spawner shop for skyblock
+author: Jmanp
+main: SkyblockSpawners.SkyblockSpawners.SkyblockSpawners
+depend: [Vault, CastiaShards, SilkSpawners, ShopGUIPlus]
+
+commands:
+  spawners:
+      description: Used to open the spawner shop
+      usage: Syntax error! Type /spawners
+  head:
+      description: Used to spawn in an animal head
+      usage: Syntax error! Type /head
